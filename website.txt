@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stray Animal Welfare Initiative</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+        }
+        header {
+            background: #28a745;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        nav {
+            background: #f4f4f4;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #333;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #28a745;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .cta {
+            background: #28a745;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            margin: 20px 0;
+        }
+        .cta a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Stray Animal Welfare Initiative</h1>
+        <p>Creating Humane Solutions for Stray Animal Overpopulation</p>
+    </header>
+
+    <nav>
+        <a href="#problem">The Problem</a>
+        <a href="#solutions">Our Solutions</a>
+        <a href="#get-involved">Get Involved</a>
+        <a href="#contact">Contact Us</a>
+    </nav>
+
+    <section id="problem">
+        <h2>The Problem</h2>
+        <p>Stray animals pose serious challenges to our communities, including public health risks, overcrowded shelters, and increased costs for animal control. Diseases like rabies and parasites can spread from strays to humans, pets, and wildlife. Overwhelmed shelters often resort to euthanasia, creating moral and emotional dilemmas for staff and residents alike.</p>
+    </section>
+
+    <section id="solutions">
+        <h2>Our Solutions</h2>
+        <ul>
+            <li><strong>Mandatory Spay/Neuter Programs:</strong> Prevent overpopulation by requiring spaying/neutering of pets.</li>
+            <li><strong>Trap-Neuter-Return (TNR):</strong> Humanely manage feral cat populations through sterilization and vaccination.</li>
+            <li><strong>Education Campaigns:</strong> Teach responsible pet ownership and the importance of adopting from shelters.</li>
+            <li><strong>Incentives for Adoption:</strong> Provide tax benefits and subsidies for adopting or fostering stray animals.</li>
+        </ul>
+    </section>
+
+    <section class="cta">
+        <p><strong>Join us in making a difference! <a href="#get-involved">Learn how you can help.</a></strong></p>
+    </section>
+
+    <section id="get-involved">
+        <h2>Get Involved</h2>
+        <p>You can make a difference by:</p>
+        <ul>
+            <li>Adopting or fostering animals from shelters.</li>
+            <li>Volunteering at local TNR programs.</li>
+            <li>Donating to support low-cost spay/neuter clinics.</li>
+            <li>Advocating for stronger animal welfare policies in your community.</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Have questions or want to get involved? Reach out to us!</p>
+        <p>Email: info@animalwelfareinitiative.org</p>
+        <p>Phone: (123) 456-7890</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Stray Animal Welfare Initiative. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
